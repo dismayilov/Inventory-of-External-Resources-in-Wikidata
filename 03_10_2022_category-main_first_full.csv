@@ -1,0 +1,131 @@
+	item_id	book_instance	reports_policy_legislation_and_technical_documentation_instance	databases_instance	academic_scientific	news_media_sources	wiki	category	Item label	Item ID	Weighted ORES Score
+0	Q1044	222	90	327	0	0	6	country	Sierra Leone	Q1044	4.93
+1	Q1048340	0	0	7	0	0	2	country	Kingdom of Albania	Q1048340	3.55
+2	Q1048918	1	0	1	0	0	2	disputed_territory	Kingdom of the Suebi	Q1048918	3.18
+3	Q1049	54	87	324	18	0	15	country	Sudan	Q1049	4.94
+4	Q1072140	2	0	2	0	0	5	disputed_territory	Roman Republic	Q1072140	3.42
+5	Q108266	4	0	12	0	0	14	country	Navajo	Q108266	3.9
+6	Q11117817	0	1	0	0	0	0	country	Madhesi tribe	Q11117817	2.0
+7	Q1133272	1	0	0	0	0	0	disputed_territory	Shebaa farms	Q1133272	3.07
+8	Q1155700	0	0	3	0	0	3	country	Rattanakosin Kingdom	Q1155700	3.05
+9	Q12035643	0	0	0	0	0	0	country	kingdom of Maroboduus	Q12035643	1.99
+10	Q1206012	8	0	0	0	0	5	country	German Reich	Q1206012	3.69
+11	Q12544	4	0	18	6	0	8	country	Byzantine Empire	Q12544	4.92
+12	Q12560	12	0	24	4	0	14	country	Ottoman Empire	Q12560	4.91
+13	Q127861	6	0	18	0	0	2	country	Khedivate of Egypt	Q127861	3.43
+14	Q12984995	0	0	0	0	0	0	country		Q12984995	1.02
+15	Q1322424	4	0	0	0	0	3	disputed_territory	Maakhir	Q1322424	3.0
+16	Q1361989	0	0	2	0	0	2	country	First Philippine Republic	Q1361989	3.1
+17	Q1381504	0	0	0	0	0	0	disputed_territory	Provisional Priamurye Government	Q1381504	3.04
+18	Q141646	0	0	0	0	0	0	country	Snoqualmie Indian Tribe	Q141646	2.98
+19	Q14682998	0	0	0	0	0	0	country	La Jolla Band of Luiseño Indians	Q14682998	2.09
+20	Q14715170	1	0	0	0	0	0	country	Aroostook Band of Micmac	Q14715170	2.02
+21	Q148	60	177	381	6	3	15	country	People's Republic of China	Q148	4.83
+22	Q148	60	177	381	6	3	15	disputed_territory	People's Republic of China	Q148	4.83
+23	Q15119951	0	0	0	0	0	0	disputed_territory		Q15119951	2.02
+24	Q15127142	0	0	1	0	0	0	disputed_territory	Republic of Bobbio	Q15127142	1.3
+25	Q1516298	0	3	0	0	0	0	country	Tulalip Tribes of Washington	Q1516298	3.81
+26	Q15211471	1	0	0	0	0	0	country	Confederated Tribes of the Chehalis Reservation	Q15211471	3.0
+27	Q155	18	18	39	0	0	6	country	Brazil	Q155	4.95
+28	Q15708442	0	0	0	0	0	0	country	Kongu Country Forest	Q15708442	1.02
+29	Q157109	0	0	0	0	0	0	country	Burgundian Netherlands	Q157109	3.04
+30	Q157367	2	0	8	0	0	6	country	Brandenburg-Prussia	Q157367	3.38
+31	Q15903902	1	0	0	0	0	0	disputed_territory	Da Ming Shun Tian Guo	Q15903902	2.17
+32	Q16708974	0	0	0	0	0	0	country		Q16708974	1.98
+33	Q170588	16	0	14	0	0	8	country	Republic of Texas	Q170588	3.26
+34	Q172107	6	0	22	0	0	22	country	Polish–Lithuanian Commonwealth	Q172107	4.29
+35	Q1754503	1	0	0	0	0	0	country	Quechan people	Q1754503	3.01
+36	Q176495	0	0	2	0	0	2	country	Federal State of Austria	Q176495	3.14
+37	Q1783866	0	0	0	0	0	0	country	Kopane	Q1783866	2.22
+38	Q178469	12	0	32	0	0	16	disputed_territory	Biafra	Q178469	4.18
+39	Q178913	2	0	14	0	0	8	country	Empire of Trebizond	Q178913	3.89
+40	Q1794655	0	0	0	0	0	0	disputed_territory	Kutai	Q1794655	2.94
+41	Q18097	6	0	2	0	0	4	country	Korea	Q18097	4.2
+42	Q1811029	0	0	3	0	0	1	disputed_territory	Finnish Socialist Workers' Republic	Q1811029	3.01
+43	Q183	78	3	51	3	3	15	country	Germany	Q183	4.87
+44	Q1852345	0	0	5	0	0	2	country	Trucial States	Q1852345	3.24
+45	Q1853386	0	0	0	0	0	0	disputed_territory	Mangkunegaran	Q1853386	2.93
+46	Q185488	4	0	16	0	0	8	country	Volga Bulgaria	Q185488	3.94
+47	Q199821	2	0	16	0	0	2	country	Gran Colombia	Q199821	3.14
+48	Q200130	6	0	4	0	0	2	disputed_territory	Azad Kashmir	Q200130	3.13
+49	Q203817	0	0	14	0	0	8	country	First Bulgarian Empire	Q203817	3.7
+50	Q2043564	0	0	0	0	0	0	country	Shamkhalate of Tarki	Q2043564	3.0
+51	Q20572155	0	0	0	0	0	0	country		Q20572155	1.02
+52	Q2139012	0	0	2	0	0	0	disputed_territory	Rehoboth	Q2139012	2.99
+53	Q215443	0	0	14	0	0	6	country	Swedish Empire	Q215443	3.36
+54	Q217169	4	0	12	0	0	2	disputed_territory	Rhodesia	Q217169	3.22
+55	Q221457	2	0	20	0	0	12	country	Congress Poland	Q221457	3.97
+56	Q2220343	0	0	0	0	0	0	disputed_territory		Q2220343	1.99
+57	Q233	210	96	354	0	0	9	country	Malta	Q233	4.94
+58	Q2429253	5	1	16	0	3	5	disputed_territory	Islamic State	Q2429253	4.88
+59	Q2454585	0	0	2	0	0	2	country	Third Czechoslovak Republic	Q2454585	3.58
+60	Q2523837	0	0	0	0	0	0	country	Brandenburg colonial empire	Q2523837	1.49
+61	Q28025	0	0	6	0	0	2	country	Ryukyu Kingdom	Q28025	3.21
+62	Q298	15	6	21	0	3	0	country	Chile	Q298	4.95
+63	Q306696	6	0	16	0	0	2	disputed_territory	Austrian Littoral	Q306696	3.06
+64	Q30890672	0	0	5	0	0	5	country	Kingdom of Sicily	Q30890672	2.98
+65	Q31	15	15	33	0	3	0	country	Belgium	Q31	4.94
+66	Q324516	0	2	0	0	0	0	country	Choctaw	Q324516	3.01
+67	Q330362	6	0	20	0	0	6	country	Commonwealth of England	Q330362	3.22
+68	Q333049	2	2	16	0	0	14	country	Lakota people	Q333049	3.7
+69	Q3403538	0	0	0	0	0	0	disputed_territory		Q3403538	1.57
+70	Q3508603	0	0	0	0	0	0	country	Minnesota Chippewa Tribe	Q3508603	2.13
+71	Q370173	10	0	2	0	0	2	country	Sultanate of Egypt	Q370173	3.3
+72	Q3908	42	2	16	0	0	0	country	Galicia	Q3908	4.86
+73	Q390827	0	0	0	0	0	0	country	Kingdom of Northern Lusitania	Q390827	2.29
+74	Q3920620	0	1	6	0	0	4	disputed_territory	Andrusovo	Q3920620	3.13
+75	Q398	210	93	408	3	0	3	country	Bahrain	Q398	4.93
+76	Q4125257	0	1	4	0	0	1	disputed_territory	Vorobiove	Q4125257	3.1
+77	Q4303069	0	0	7	0	0	5	disputed_territory	Alsu	Q4303069	2.99
+78	Q4415545	0	1	7	0	0	0	disputed_territory	Semysotka	Q4415545	3.55
+79	Q449639	0	0	5	0	0	5	country	Alodia	Q449639	3.53
+80	Q45	249	93	378	0	3	6	country	Portugal	Q45	4.95
+81	Q4515234	0	1	3	0	0	0	disputed_territory	Chekhove	Q4515234	3.03
+82	Q454548	0	0	0	0	0	0	disputed_territory	Amanuban	Q454548	2.88
+83	Q457167	2	0	10	0	0	4	country	West Ukrainian People's Republic	Q457167	3.18
+84	Q457167	2	0	10	0	0	4	disputed_territory	West Ukrainian People's Republic	Q457167	3.18
+85	Q5141402	0	0	0	0	0	0	country	Cohonina	Q5141402	2.01
+86	Q5257	0	0	12	2	0	14	country	Satavahana dynasty	Q5257	3.86
+87	Q5419035	3	0	0	0	0	1	country	Ewiiaapaayp Reservation	Q5419035	2.04
+88	Q5440850	3	0	1	0	0	1	country	Federation of Nigeria	Q5440850	3.08
+89	Q5470818	0	0	0	0	0	0	country	Fort Bidwell Indian Community of the Fort Bidwell Reservation of California	Q5470818	2.6
+90	Q57047524	0	0	1	0	0	0	country	Chickahominy Tribe	Q57047524	2.16
+91	Q58359538	0	0	0	0	0	0	disputed_territory	Aghem polity	Q58359538	2.02
+92	Q5900794	2	0	0	0	0	0	country	Hopland Band of Pomo Indians of the Hopland Rancheria	Q5900794	2.03
+93	Q6148290	7	0	0	0	0	7	country	Jamul Village	Q6148290	2.1
+94	Q622783	2	0	1	0	0	3	country	Spanish Netherlands	Q622783	3.32
+95	Q63431585	1	0	0	0	0	1	country	Campo Reservation	Q63431585	2.03
+96	Q6509709	2	0	0	0	0	2	country	Khalkhal Khanate	Q6509709	1.98
+97	Q674419	3	0	0	0	0	0	disputed_territory	Provisional Government of National Unity	Q674419	2.95
+98	Q6821065	6	1	0	0	0	6	country	Mesa Grande Band of Diegueno Mission Indians	Q6821065	2.14
+99	Q6825636	0	0	0	0	0	0	disputed_territory	South Reef	Q6825636	2.15
+100	Q686	222	39	336	0	0	18	country	Vanuatu	Q686	4.93
+101	Q688654	0	1	8	0	0	0	disputed_territory	Dubăsari	Q688654	3.14
+102	Q698931	2	0	4	0	0	1	disputed_territory	Pratas Islands	Q698931	3.04
+103	Q704942	0	0	0	0	0	0	country	Arsigantegok	Q704942	2.01
+104	Q7183	12	0	10	6	0	8	country	Qin dynasty	Q7183	4.65
+105	Q719187	0	0	2	0	0	0	disputed_territory	Uotsuri-shima	Q719187	3.28
+106	Q7233551	1	0	0	0	0	2	country	Post-independence Burma, 1948–1962	Q7233551	3.02
+107	Q7318	0	0	2	0	0	2	country	Nazi Germany	Q7318	4.46
+108	Q7380487	0	0	2	0	0	2	country	Kingdom of Pontus	Q7380487	3.19
+109	Q7559152	2	0	3	0	0	4	country	Somali Republic	Q7559152	3.52
+110	Q766543	0	0	0	0	0	0	country	Hispanic Monarchy One	Q766543	2.76
+111	Q7842409	0	0	6	0	0	6	country	Commonwealth realm of Trinidad and Tobago	Q7842409	3.0
+112	Q7905061	0	0	0	0	0	0	disputed_territory	Uzita	Q7905061	2.01
+113	Q7928263	12	1	0	0	0	11	country	Viejas Reservation	Q7928263	2.72
+114	Q796684	2	0	2	0	0	4	disputed_territory	Hala'ib Triangle	Q796684	3.18
+115	Q801	21	6	12	0	3	12	country	Israel	Q801	4.95
+116	Q819	219	87	432	12	3	12	country	Laos	Q819	4.94
+117	Q83210	26	0	6	0	4	4	disputed_territory	Golan Heights	Q83210	4.22
+118	Q83891	2	0	36	0	0	38	country	Sasanian Empire	Q83891	4.28
+119	Q83958	20	0	12	0	0	6	country	Macedonia	Q83958	3.89
+120	Q842794	1	0	8	0	0	1	country	Socialist Republic of Romania	Q842794	3.25
+121	Q849623	3	0	1	0	0	2	country	Oyo Empire	Q849623	3.17
+122	Q85119937	0	0	0	0	0	0	country	Acoma Pueblo tribe	Q85119937	2.04
+123	Q863	36	90	414	0	0	15	country	Tajikistan	Q863	4.93
+124	Q869	9	6	6	0	0	0	country	Thailand	Q869	4.96
+125	Q878	216	96	318	0	3	0	country	United Arab Emirates	Q878	4.94
+126	Q912	27	93	207	3	0	6	country	Mali	Q912	4.93
+127	Q916	12	6	33	9	0	18	country	Angola	Q916	4.94
+128	Q950644	1	0	6	0	0	2	disputed_territory	Carpatho-Ukraine	Q950644	3.09
+129	Q950644	1	0	6	0	0	2	country	Carpatho-Ukraine	Q950644	3.09
